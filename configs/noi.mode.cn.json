@@ -70,18 +70,6 @@
       "url": "https://pi.ai/talk"
     },
     {
-      "id": "noi:coze",
-      "parent": "noi@ai",
-      "text": "Coze",
-      "url": "https://www.coze.com/home"
-    },
-    {
-      "id": "noi:you",
-      "parent": "noi@ai",
-      "text": "YOU",
-      "url": "https://you.com"
-    },
-    {
       "id": "noi:cozeCN",
       "parent": "noi@aiCN",
       "text": "扣子",
